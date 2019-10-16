@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Sensor/SensorConfiguration.m" Name="SensorConfiguration">
+    <Extension Value="7328d222-5d8a-4522-8097-e1a216c00085" Name="StartUpPrev" />
+</Info>
